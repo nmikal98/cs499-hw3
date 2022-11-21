@@ -5,7 +5,7 @@ package main
 import (
 	"path/filepath"
 
-	"github.com/ucy-coast/hotel-app/internal/geo"
+	"github.com/nmikal98/cs499-hw3/hotelapp/internal/geo"
 )
 
 func initializeGeoDatabase() *geo.DatabaseSession {

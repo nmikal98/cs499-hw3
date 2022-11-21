@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 
+	"github.com/nmikal98/cs499-hw3/hotelapp/internal/rate"
+	"github.com/nmikal98/cs499-hw3/hotelapp/pkg/tracing"
 	log "github.com/sirupsen/logrus"
-	"github.com/ucy-coast/hotel-app/internal/rate"
-	"github.com/ucy-coast/hotel-app/pkg/tracing"
 )
 
 var (

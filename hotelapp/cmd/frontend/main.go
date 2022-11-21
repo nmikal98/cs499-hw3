@@ -5,8 +5,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ucy-coast/hotel-app/internal/frontend"
-	"github.com/ucy-coast/hotel-app/pkg/tracing"
+	"github.com/nmikal98/cs499-hw3/hotelapp/internal/frontend"
+	"github.com/nmikal98/cs499-hw3/hotelapp/pkg/tracing"
 )
 
 var (

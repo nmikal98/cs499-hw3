@@ -9,9 +9,9 @@ import (
 	"github.com/opentracing/opentracing-go"
 	log "github.com/sirupsen/logrus"
 
-	profile "github.com/ucy-coast/hotel-app/internal/profile/proto"
-	search "github.com/ucy-coast/hotel-app/internal/search/proto"
-	"github.com/ucy-coast/hotel-app/pkg/dialer"
+	profile "github.com/nmikal98/cs499-hw3/hotelapp/internal/profile/proto"
+	search "github.com/nmikal98/cs499-hw3/hotelapp/internal/search/proto"
+	"github.com/nmikal98/cs499-hw3/hotelapp/pkg/dialer"
 )
 
 // Frontend implements frontend service

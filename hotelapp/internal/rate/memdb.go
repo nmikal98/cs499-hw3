@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"os"
 
+	pb "github.com/nmikal98/cs499-hw3/hotelapp/internal/rate/proto"
 	log "github.com/sirupsen/logrus"
-	pb "github.com/ucy-coast/hotel-app/internal/rate/proto"
 )
 
 type DatabaseSession struct {

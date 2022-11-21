@@ -8,8 +8,8 @@ import (
 
 	"github.com/grpc-ecosystem/grpc-opentracing/go/otgrpc"
 	"github.com/hailocab/go-geoindex"
+	pb "github.com/nmikal98/cs499-hw3/hotelapp/internal/geo/proto"
 	"github.com/opentracing/opentracing-go"
-	pb "github.com/ucy-coast/hotel-app/internal/geo/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 )

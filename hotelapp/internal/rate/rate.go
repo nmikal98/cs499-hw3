@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/grpc-ecosystem/grpc-opentracing/go/otgrpc"
+	pb "github.com/nmikal98/cs499-hw3/hotelapp/internal/rate/proto"
 	"github.com/opentracing/opentracing-go"
-	pb "github.com/ucy-coast/hotel-app/internal/rate/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 )

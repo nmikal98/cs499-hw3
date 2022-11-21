@@ -6,7 +6,7 @@ import (
 	"flag"
 	"path/filepath"
 
-	"github.com/ucy-coast/hotel-app/internal/profile"
+	"github.com/nmikal98/cs499-hw3/hotelapp/internal/profile"
 )
 
 var (

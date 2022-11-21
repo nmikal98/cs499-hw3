@@ -5,7 +5,7 @@ package main
 import (
 	"path/filepath"
 
-	"github.com/ucy-coast/hotel-app/internal/rate"
+	"github.com/nmikal98/cs499-hw3/hotelapp/internal/rate"
 )
 
 func initializeRateDatabase() *rate.DatabaseSession {

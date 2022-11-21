@@ -5,7 +5,7 @@ package main
 import (
 	"path/filepath"
 
-	"github.com/ucy-coast/hotel-app/internal/profile"
+	"github.com/nmikal98/cs499-hw3/hotelapp/internal/profile"
 )
 
 func initializeProfileDatabase() *profile.DatabaseSession {
